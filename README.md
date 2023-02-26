@@ -56,8 +56,7 @@ Your submission should include the following:
 1. All Python (.py) files, including tests, that you developed.
 1. A sample csv file with some employee data in it.
 1. Any other files required to successfully run your code.
-1. You also need to upload your code to Canvas, uploading it as a pull request.
-1. In Canvas, add a comment to your submission with a link to your pull request.
+1. You also need to upload your code to the course website, uploading it as a pull request.
 
 Your submission **should not** include your virtual environment.
 
